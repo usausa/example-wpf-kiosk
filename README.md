@@ -1,1 +1,1 @@
-# example-wpf-kiosk
+# Template project for WPF

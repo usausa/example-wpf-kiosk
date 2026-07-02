@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Kiosk.WindowsApp": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
